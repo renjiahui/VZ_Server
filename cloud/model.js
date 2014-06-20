@@ -47,8 +47,8 @@ exports.channel_account={
 exports.default_count=30;
 
 exports.weibo={
-        appkey:'2858658895',
-        appsec:"9d97c1cce2893cbdcdc970f05bc55fe4",
+        appkey:'1117237362',
+        appsec:"72b0073db04522406b63bb5ba063610a",
 }
     
 exports.block_account=['3170023534'];

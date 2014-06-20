@@ -5,7 +5,7 @@ exports.fetchPosts=function (userid,from,callback) {
     from='0'; //强制重新刷
     
     var count=20;
-    var path="/2/statuses/user_timeline.json?source=4229079448&uid="+userid+"&since_id="+from+"&count="+count;
+    var path="/2/statuses/user_timeline.json?source=1117237362&uid="+userid+"&since_id="+from+"&count="+count;
     var url="http://api.weibo.com"+path;
     
     avos.httpGet(url,function (res) {
