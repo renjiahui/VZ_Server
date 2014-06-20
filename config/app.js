@@ -1,8 +1,8 @@
 module.exports={
     default_count:30,
     weibo:{
-        appkey:'2858658895',
-        appsec:"9d97c1cce2893cbdcdc970f05bc55fe4",
+        appkey:'1117237362',
+        appsec:"72b0073db04522406b63bb5ba063610a",
     },
     channel_account:{
         shuma:['2043408047','1761596064','1882458640','1841288857','3787475667'],
